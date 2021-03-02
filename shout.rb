@@ -1,4 +1,4 @@
-class Cry
+class Shout
   def initialize(name:)
     @name = name 
   end
